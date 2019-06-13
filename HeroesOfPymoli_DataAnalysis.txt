@@ -1,0 +1,28 @@
+Heroes of Pymoli
+
+Here are a few of observable trends based on the data:
+
+Gender Demographics:
+
+Disproprotionate percent of male players. 
+Action: How do we improve marketing strategy and/or product to target more women players, thus increasing total players.
+
+Age Demographics:
+
+20-24:44.79%
+15-19: 18.58%
+25-29: 13.37%
+
+Data has provided our best target age demographic of 20-24 yrs of age.
+Should increase marketing strategy for 20-24 range,and possibly increase visibility in the 15-19 bracket.
+Would be interesting the percentage of gender within the 20-24 age bracket.
+
+Most Popular/Profitable:
+
+Deeper analysis should be done to analyze characteristics of most profitable or popular products and replicate to other item offerings.
+
+
+
+
+
+
